@@ -6,7 +6,7 @@ This a list of state-of-the-art shitcode principles your project should follow t
 
 _Read this in other languages:_
 [_简体中文_](README.zh-CN.md),
-[한국어](README.zh-KO.md)
+[_한국어_](README.ko-KR.md)
 
 ## Get Your Badge
 
@@ -24,7 +24,7 @@ Markdown source-code for the badge:
 
 ### 💩 Name variables in a way as if your code was already obfuscated
 
-Less keystrokes, more time for you.
+Fewer keystrokes, more time for you.
 
 _Good 👍🏻_
 
@@ -386,7 +386,7 @@ let isEmpty = false;
 
 ### 💩 Long-read functions are better than short ones.
 
-Don't divide a program logic into readable pieces. What if your IDE's search brakes and you will not be able to find the necessary file or function?
+Don't divide a program logic into readable pieces. What if your IDE's search breaks and you will not be able to find the necessary file or function?
 
 - 10000 lines of code in one file is OK.
 - 1000 lines of a function body is OK.
